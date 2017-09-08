@@ -1,30 +1,13 @@
-# This is a large heading
+# Suresh Kumar
 
-## This is a smaller heading
+### Geography
+I live in the city of Philadelphia, in the state of Pennsylvania, in the United States of America.
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poets pen, 
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**. 
+### Reading
+Three of my favorite soccer players are: - *Messi* from Argentina - *Ronaldo* from Portugal - *Rooney* from England
 
-- This is 
-- an unordered 
-- list 
+### Food
+These are my favourite cuisines : 1. Thai. 2. Chinese. 3. Indian.
 
-1. This is 
-2. an ordered 
-3. list 
-
-Here is `some code` in the middle of a sentence. 
-
-``` 
-This is 
-a block 
-of code 
-``` 
-
-Here is how you make [a link](https://www.wikipedia.org/). 
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is [on Twitter](https://twitter.com/itsuresh).
