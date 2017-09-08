@@ -1,2 +1,4 @@
 New file for git exercise
 Adding more lines for git exercise
+Adding another line to file1
+Adding line 4 to file1
