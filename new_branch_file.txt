@@ -1,5 +1,2 @@
 New file created in new_branch
-<<<<<<< HEAD
-=======
 There is no conflict now
->>>>>>> new_branch
