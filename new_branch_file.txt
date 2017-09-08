@@ -1,2 +1,0 @@
-New file created in new_branch
-There is no conflict now
